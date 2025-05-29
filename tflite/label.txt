@@ -1,0 +1,23 @@
+apple_golden_3
+apple_red_1
+apple_rotten_1
+Avocado Green 1
+Banana 3
+Beans 1
+Blackberrie 1
+Cabbage red 1
+cabbage_white_1
+Cactus fruit red 1
+Caju seed 1
+carrot_1
+Cherimoya 1
+Cherry Rainier 3
+Cherry Wax Red 2
+Cucumber 5
+eggplant_long_1
+Gooseberry 1
+pear_3
+Pistachio 1
+Quince 4
+Tomato Cherry Maroon 1
+zucchini_1
